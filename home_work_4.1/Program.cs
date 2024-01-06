@@ -1,4 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
+// See https://aka.ms/new-console-template for more information
 // התחלה של משימה ראשונה
 
 
@@ -63,11 +63,11 @@ else {
 
 
 if (firstNumber < secoundNumber && firstNumber < thirdNumber
-    && secoundNumber < thirdNumber) {
+  ) {
     Console.WriteLine("Numbers are ascending");
 }
 else if (firstNumber > secoundNumber && firstNumber > thirdNumber
-        && secoundNumber > thirdNumber
+       
     ) {
     Console.WriteLine("Numbers are descending");
 }

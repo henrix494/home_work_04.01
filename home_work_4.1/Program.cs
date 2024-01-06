@@ -62,11 +62,11 @@ else {
 
 
 
-if (firstNumber < secoundNumber && firstNumber < thirdNumber
+if (firstNumber < secoundNumber && secoundNumber < thirdNumber
   ) {
     Console.WriteLine("Numbers are ascending");
 }
-else if (firstNumber > secoundNumber && firstNumber > thirdNumber
+else if (firstNumber > secoundNumber && secoundNumber > thirdNumber
        
     ) {
     Console.WriteLine("Numbers are descending");

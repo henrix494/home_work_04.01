@@ -1,0 +1,14 @@
+C:\Users\natan\source\repos\home_work_4.1\home_work_4.1\bin\Debug\net8.0\home_work_4.1.exe
+C:\Users\natan\source\repos\home_work_4.1\home_work_4.1\bin\Debug\net8.0\home_work_4.1.deps.json
+C:\Users\natan\source\repos\home_work_4.1\home_work_4.1\bin\Debug\net8.0\home_work_4.1.runtimeconfig.json
+C:\Users\natan\source\repos\home_work_4.1\home_work_4.1\bin\Debug\net8.0\home_work_4.1.dll
+C:\Users\natan\source\repos\home_work_4.1\home_work_4.1\bin\Debug\net8.0\home_work_4.1.pdb
+C:\Users\natan\source\repos\home_work_4.1\home_work_4.1\obj\Debug\net8.0\home_work_4.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natan\source\repos\home_work_4.1\home_work_4.1\obj\Debug\net8.0\home_work_4.1.AssemblyInfoInputs.cache
+C:\Users\natan\source\repos\home_work_4.1\home_work_4.1\obj\Debug\net8.0\home_work_4.1.AssemblyInfo.cs
+C:\Users\natan\source\repos\home_work_4.1\home_work_4.1\obj\Debug\net8.0\home_work_4.1.csproj.CoreCompileInputs.cache
+C:\Users\natan\source\repos\home_work_4.1\home_work_4.1\obj\Debug\net8.0\home_work_4.1.dll
+C:\Users\natan\source\repos\home_work_4.1\home_work_4.1\obj\Debug\net8.0\refint\home_work_4.1.dll
+C:\Users\natan\source\repos\home_work_4.1\home_work_4.1\obj\Debug\net8.0\home_work_4.1.pdb
+C:\Users\natan\source\repos\home_work_4.1\home_work_4.1\obj\Debug\net8.0\home_work_4.1.genruntimeconfig.cache
+C:\Users\natan\source\repos\home_work_4.1\home_work_4.1\obj\Debug\net8.0\ref\home_work_4.1.dll
